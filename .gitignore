@@ -46,3 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.suo
+/Bin/ComponentFactory.Krypton.Docking.dll
+/Bin/ComponentFactory.Krypton.Docking.pdb
+/Bin/ComponentFactory.Krypton.Navigator.dll
